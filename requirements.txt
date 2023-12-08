@@ -1,0 +1,4 @@
+langchain  # Se disponível publicamente ou no seu ambiente
+gradio
+requests
+sentence-transformers
