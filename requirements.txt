@@ -1,4 +1,4 @@
-langchain  # Se disponível publicamente ou no seu ambiente
+langchain
 gradio
 requests
 sentence-transformers
